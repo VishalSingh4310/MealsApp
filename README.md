@@ -1,5 +1,6 @@
 ## MealsApp
 Its an Meal App where you can see different meals and can also filter out them according to ingredient.
+It is developed using `React-native` , `Redux` , `React Navigation`.
 ## `Screenshots`
 ## Home Screen
 ![Main MealsApp](https://user-images.githubusercontent.com/52502909/95485510-7910c100-09af-11eb-8b3b-422b6e986c5b.png)
